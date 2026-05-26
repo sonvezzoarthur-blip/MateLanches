@@ -1,0 +1,59 @@
+[
+    {
+        "data": "2026-05-26 13:19:26.641323",
+        "itens": {
+            "X-Tudo": {
+                "preco": 30,
+                "qtd": 1
+            },
+            "Refrigerante": {
+                "preco": 7,
+                "qtd": 1
+            }
+        },
+        "total": 37,
+        "pago": 37.0,
+        "troco": 0.0
+    },
+    {
+        "data": "2026-05-26 13:20:03.801034",
+        "itens": {
+            "Sorvete": {
+                "preco": 12,
+                "qtd": 1
+            },
+            "Pastel": {
+                "preco": 10,
+                "qtd": 1
+            },
+            "Pizza Brotinho": {
+                "preco": 25,
+                "qtd": 1
+            }
+        },
+        "total": 47,
+        "pago": 159.0,
+        "troco": 112.0
+    },
+    {
+        "data": "2026-05-26 13:24:52.303331",
+        "itens": {
+            "Água": {
+                "preco": 4,
+                "qtd": 1
+            },
+            "Coxinha": {
+                "preco": 8,
+                "qtd": 1
+            },
+            "Batata Cheddar": {
+                "preco": 18,
+                "qtd": 1
+            }
+        },
+        "total": 30,
+        "pago": 50.0,
+        "troco": 20.0,
+        "pagamento": "Crédito"
+    }
+]
